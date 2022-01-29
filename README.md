@@ -19,7 +19,7 @@
 * Ability to restrict groups(AUTH_GROUPS)
 
 #### Deploy To Heroku
-
+f7
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/singam4alen/AutoFilterBotV3https://github.com/DalinMathew/AutoFilterBotV3)
 
 #### Hard Way
